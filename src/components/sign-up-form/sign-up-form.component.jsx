@@ -90,7 +90,6 @@ export default function SignUpForm() {
           autoComplete="on"
         />
 
-        {/* <button type="submit">Sign Up</button> */}
         <Button type="submit" children="Sign Up" />
       </form>
     </div>
